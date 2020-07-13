@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+body{
+    /* FONTS */
+    font-family: "Poppins", sans-serif;
+    background-color: #ccc;
+}
+
+
+
+#bg-img{
+    background: url('https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/dogs_1280p_0.jpg?itok=cnRk0HYq');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
+
+#About{
+    margin-top: -200px;
+}
+
+#About .fa{
+    color: white;
+}
+
+#About span{
+    padding: 10px 20px 10px 20px;
+}
+
+#About hr{
+    border-width: 20px;
+
+}
